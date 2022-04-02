@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "type": "carousel",
+      "urls": [
+        "https://tinyurl.com/y3w8oaah",
+        "https://tinyurl.com/y4vaulog",
+        "https://tinyurl.com/y3j7rq6g",
+        "https://tinyurl.com/y28jpmyr",
+        "https://tinyurl.com/y2w7fbdo",
+        "https://tinyurl.com/yy2f6lha"
+      ]
+    },
+    {
+      "id": "7",
+      "type": "products",
+      "products": [
+        {
+          "url": "https://tinyurl.com/y3c6ksu5",
+          "title": "Test1",
+          "subTitle": "10  off"
+        },
+        {
+          "url": "https://tinyurl.com/y2gersqn",
+          "title": "Test2",
+          "subTitle": "10  off"
+        },
+        {
+          "url": "https://tinyurl.com/y4f5e96j",
+          "title": "Test 3",
+          "subTitle": "56"
+        },
+        {
+          "url": "https://tinyurl.com/y2szwrys",
+          "title": "Test 4",
+          "subTitle": "78"
+        },
+        {
+          "url": "https://tinyurl.com/y5n467o3",
+          "title": "Test5",
+          "subTitle": "88"
+        },
+        {
+          "url": "https://tinyurl.com/yxupqdll",
+          "title": "Test6",
+          "subTitle": "9"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "type": "banner",
+      "url": "https://tinyurl.com/y3c6ksu5"
+    }
+  ]
+}
